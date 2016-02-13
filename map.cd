@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="universe.Space" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Space.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="universe.resource.Resource" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>resource\Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="universe.resource.Supply" Collapsed="true">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAACAAAAAAAAAAAAAAAAAAAAgAAAACAAg=</HashCode>
+      <FileName>resource\Supply.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="universe.resource.atom.Element" Collapsed="true">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAgAAAAAAAA=</HashCode>
+      <FileName>resource\atom\Element.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="universe.ship.aActiveStructure" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAEAAAAAABIAAAAAAQAAA=</HashCode>
+      <FileName>ship\ActiveStructure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="universe.ship.power.PowerSource" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAA=</HashCode>
+      <FileName>ship\power\PowerSource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="universe.ship.power.FluxReactor" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAAgAAAAAAAAAAAAAAAAAGAAABAIBIAAAAIAABAA=</HashCode>
+      <FileName>ship\power\FluxReactor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
